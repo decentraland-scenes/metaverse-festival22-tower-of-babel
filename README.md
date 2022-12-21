@@ -1,5 +1,7 @@
 # Tower of Babel
 
+<img src="images/scene-thumbnail.png" width="500"> 
+
 Assets and code used for the [Metaverse Festival 2022](https://decentraland.org/blog/announcements/metaverse-music-festival-2022-everything-there-is-to-know-so-far/) Tower of Babel Scene
 
 ## How to deploy
